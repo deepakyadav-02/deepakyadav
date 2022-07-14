@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">A Computer Science undergraduate I am currently working on Full-stack development and interested in learning Cloud.</h3>
-<h2>FULL-STACK</h2>
+<h2 align="center">FULL-STACK</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/yadavdeepak_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yadavdeepak_02" height="30" width="40" /></a>

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">A Computer Science undergraduate . I am currently working on Full-stack development and interested in learning Cloud.</h3>
-<h2 align="center">FULL_STACK</h2>
+<h2 align="center">FULL-STACK</h2>
 
 - 🔭 I recently worked on [CSE-WEBSITE](https://github.com/SilverGraph/CSE-Website)
 

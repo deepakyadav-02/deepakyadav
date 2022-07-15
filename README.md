@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">A Computer Science undergraduate . I am currently working on Full-stack development and interested in learning Cloud.</h3>
-<h2 align="center">FULL-STACK</h2>
+<h2 align="center">FULL_STACK</h2>
+
+- 🔭 I recently worked on [CSE-WEBSITE](https://github.com/SilverGraph/CSE-Website)
+
+- 🌱 I’m currently learning **Cloud and Devops**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,4 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakyadav-02&show_icons=true&locale=en" alt="deepakyadav-02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakyadav-02&" alt="deepakyadav-02" /></p>
-
